@@ -2,7 +2,7 @@
 
 
 langkah-langkah cara penggunaan git hub
-gambar1
+![1938](https://user-images.githubusercontent.com/46749109/51827962-213a3f80-231d-11e9-965c-13b38b979c71.jpg)
 
 Apa itu git Git adalah pengontrol versi yang bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri. Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
 
@@ -27,7 +27,7 @@ Klik kanan pada monitor Klik " Git Bash Here"
 
 Maka akan ada tampilan command prompt seperti dibawah ini
 
-gambar3
+![1966](https://user-images.githubusercontent.com/46749109/51828008-3adb8700-231d-11e9-8d6e-b86020e1c200.png)
 
 Buka Drive yang ingin dipakai, semisal Drive D jalankan dengan perintah cd /d
 
