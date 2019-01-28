@@ -1,7 +1,8 @@
 # latihan15
 
 
-langkah-langkah cara penggunaan git hub
+langkah-langkah cara penggunaan git hub 
+
 ![1938](https://user-images.githubusercontent.com/46749109/51827962-213a3f80-231d-11e9-965c-13b38b979c71.jpg)
 
 Apa itu git Git adalah pengontrol versi yang bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri. Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
